@@ -16,6 +16,18 @@
 
 ---
 
+## ⭐ Flagship project
+
+### [DotaAccept](https://github.com/wuttashi1/DotaAccept)
+
+**Fewer clicks. More game.** My main project: a Windows companion for Dota 2 with match acceptance actions, hero pick sequences, customizable hotkeys and Telegram control.
+
+[Download for Windows](https://github.com/wuttashi1/DotaAccept/releases/latest) · [Explore the project](https://github.com/wuttashi1/DotaAccept) · [English documentation](https://github.com/wuttashi1/DotaAccept/blob/main/README.en.md)
+
+`Windows 10 / 11` · `Telegram` · `Hotkeys` · `RU / EN docs`
+
+---
+
 ## Featured bots
 
 ### [🥗 Food Planner](https://github.com/wuttashi1/food-planner-bot)
@@ -46,4 +58,4 @@ Telegram group activity reports, reminders and scheduled cleanup.
 
 ### More projects
 
-[Telegram × n8n](https://github.com/wuttashi1/n8nstart) · [DotaAccept](https://github.com/wuttashi1/DotaAccept) · [Music portfolio](https://wutsh-ysite.vercel.app)
+[Telegram × n8n](https://github.com/wuttashi1/n8nstart) · [Music portfolio](https://wutsh-ysite.vercel.app)

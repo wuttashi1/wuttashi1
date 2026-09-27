@@ -16,6 +16,18 @@
 
 ---
 
+## ⭐ Главный проект
+
+### [DotaAccept](https://github.com/wuttashi1/DotaAccept)
+
+**Меньше кликов. Больше игры.** Мой главный проект: приложение для Windows, которое запускает настроенные действия для принятия матча и выбора героя в Dota 2 — горячими клавишами или через Telegram.
+
+[Скачать для Windows](https://github.com/wuttashi1/DotaAccept/releases/latest) · [Открыть проект](https://github.com/wuttashi1/DotaAccept) · [Документация на русском](https://github.com/wuttashi1/DotaAccept/blob/main/README.md)
+
+`Windows 10 / 11` · `Telegram` · `Горячие клавиши` · `Документация RU / EN`
+
+---
+
 ## Избранные боты
 
 ### [🥗 Food Planner](https://github.com/wuttashi1/food-planner-bot)
@@ -46,4 +58,4 @@
 
 ### Ещё проекты
 
-[Telegram × n8n](https://github.com/wuttashi1/n8nstart) · [DotaAccept](https://github.com/wuttashi1/DotaAccept) · [Music portfolio](https://wutsh-ysite.vercel.app)
+[Telegram × n8n](https://github.com/wuttashi1/n8nstart) · [Music portfolio](https://wutsh-ysite.vercel.app)
