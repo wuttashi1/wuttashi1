@@ -16,34 +16,34 @@
 
 ---
 
-## Featured bots
+## Избранные боты
 
 ### [🥗 Food Planner](https://github.com/wuttashi1/food-planner-bot)
 
 [▶ Open bot / Открыть бота](https://t.me/wutshyfoodplanner_bot)
 
-Weekly meal plans, shared groceries, nutrition and Excel workflows.
+Недельный рацион, совместные покупки, БЖУ и работа с Excel.
 
 ### [🏋️ Fitness Bot](https://github.com/wuttashi1/fitness-bot-mvp)
 
 [▶ Open bot / Открыть бота](https://t.me/TrenirovkaWSBot)
 
-Workout tracking, personal programs, progress and a community workshop.
+Дневник тренировок, личные программы, прогресс и WORK SHOP.
 
 ### [🎵 Beat Cover & BPM](https://github.com/wuttashi1/Beat_cover-bmpbot)
 
-Cover artwork, BPM timestamps, MP3 tags and publishing tools.
+Обложки, таймкоды по BPM, теги MP3 и инструменты публикации.
 
 ### [🌸 Anime Wutshy](https://github.com/wuttashi1/animewutshybot)
 
-Discord anime cards, forum topics, personal lists and API integrations.
+Аниме-карточки в Discord, темы форума, личные списки и API.
 
 ### [🛡️ Activity Manager](https://github.com/wuttashi1/Inactivebot)
 
-Telegram group activity reports, reminders and scheduled cleanup.
+Отчёты об активности Telegram-групп, предупреждения и очистка.
 
 ---
 
-### More projects
+### Ещё проекты
 
 [Telegram × n8n](https://github.com/wuttashi1/n8nstart) · [DotaAccept](https://github.com/wuttashi1/DotaAccept) · [Music portfolio](https://wutsh-ysite.vercel.app)
