@@ -5,7 +5,7 @@
 **Bots for everyday life, creative work and online communities.**  
 **Боты для повседневной жизни, творчества и онлайн-сообществ.**
 
-[English](README.md) · [Русский](README.ru.md) · [Portfolio / Портфолио](https://wutsh-ysite.vercel.app)
+[English](README.md) · [Русский](README.ru.md) · [Portfolio / Портфолио](https://wutshy.vercel.app/)
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=74c7ff)
 ![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=74c7ff)
