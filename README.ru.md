@@ -34,11 +34,13 @@
 
 ### [Focus Crosshair](https://github.com/wuttashi1/focus-crosshair)
 
-Минималистичный прицел с пружинной анимацией, фокусом на объектах, прогрессом добычи и ненавязчивыми эффектами движения, боя и предметов. Только визуальные эффекты, работает на клиенте.
+**Версия 1.1:** пружинный прицел с пятью формами, пятью палитрами, живым предпросмотром и загрузкой своего PNG. Глубокая настройка фокуса, только визуальные эффекты на клиенте.
 
 [Скачать JAR](https://github.com/wuttashi1/focus-crosshair/releases/latest) · [Описание и установка](https://github.com/wuttashi1/focus-crosshair/blob/main/README.ru.md) · [Исходный код](https://github.com/wuttashi1/focus-crosshair)
 
 `Minecraft 26.2` · `Fabric` · `Java 25` · `RU / EN / DE`
+
+[![Focus Crosshair 1.1](https://raw.githubusercontent.com/wuttashi1/focus-crosshair/main/docs/assets/banner-1.1.png)](https://github.com/wuttashi1/focus-crosshair)
 
 <img src="https://raw.githubusercontent.com/wuttashi1/focus-crosshair/main/docs/assets/gameplay.gif" width="480" alt="Focus Crosshair gameplay animation">
 

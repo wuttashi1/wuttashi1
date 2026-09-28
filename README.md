@@ -34,11 +34,13 @@
 
 ### [Focus Crosshair](https://github.com/wuttashi1/focus-crosshair)
 
-A minimal, spring-animated crosshair with contextual focus, mining progress and subtle movement, combat and item-use effects. Purely visual and client-side.
+**Version 1.1:** a bouncy, customizable crosshair with five shapes, five color skins, a live settings preview and custom PNG import. Purely visual and client-side.
 
 [Download JAR](https://github.com/wuttashi1/focus-crosshair/releases/latest) · [Source & setup](https://github.com/wuttashi1/focus-crosshair) · [Русский](https://github.com/wuttashi1/focus-crosshair/blob/main/README.ru.md)
 
 `Minecraft 26.2` · `Fabric` · `Java 25` · `EN / DE / RU`
+
+[![Focus Crosshair 1.1](https://raw.githubusercontent.com/wuttashi1/focus-crosshair/main/docs/assets/banner-1.1.png)](https://github.com/wuttashi1/focus-crosshair)
 
 <img src="https://raw.githubusercontent.com/wuttashi1/focus-crosshair/main/docs/assets/gameplay.gif" width="480" alt="Focus Crosshair gameplay animation">
 
