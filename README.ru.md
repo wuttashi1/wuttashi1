@@ -28,6 +28,22 @@
 
 ---
 
+## Моды для Minecraft
+
+<img src="assets/focus-crosshair.png" width="72" align="left" alt="Логотип Focus Crosshair">
+
+### [Focus Crosshair](https://github.com/wuttashi1/focus-crosshair)
+
+Минималистичный прицел с пружинной анимацией, фокусом на объектах, прогрессом добычи и ненавязчивыми эффектами движения, боя и предметов. Только визуальные эффекты, работает на клиенте.
+
+[Скачать JAR](https://github.com/wuttashi1/focus-crosshair/releases/latest) · [Описание и установка](https://github.com/wuttashi1/focus-crosshair/blob/main/README.ru.md) · [Исходный код](https://github.com/wuttashi1/focus-crosshair)
+
+`Minecraft 26.2` · `Fabric` · `Java 25` · `RU / EN / DE`
+
+<br clear="left">
+
+---
+
 ## Избранные боты
 
 ### [🥗 Food Planner](https://github.com/wuttashi1/food-planner-bot)

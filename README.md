@@ -28,6 +28,22 @@
 
 ---
 
+## Minecraft mods
+
+<img src="assets/focus-crosshair.png" width="72" align="left" alt="Focus Crosshair logo">
+
+### [Focus Crosshair](https://github.com/wuttashi1/focus-crosshair)
+
+A minimal, spring-animated crosshair with contextual focus, mining progress and subtle movement, combat and item-use effects. Purely visual and client-side.
+
+[Download JAR](https://github.com/wuttashi1/focus-crosshair/releases/latest) · [Source & setup](https://github.com/wuttashi1/focus-crosshair) · [Русский](https://github.com/wuttashi1/focus-crosshair/blob/main/README.ru.md)
+
+`Minecraft 26.2` · `Fabric` · `Java 25` · `EN / DE / RU`
+
+<br clear="left">
+
+---
+
 ## Featured bots
 
 ### [🥗 Food Planner](https://github.com/wuttashi1/food-planner-bot)
