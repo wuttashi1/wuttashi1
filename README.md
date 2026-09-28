@@ -40,6 +40,8 @@ A minimal, spring-animated crosshair with contextual focus, mining progress and 
 
 `Minecraft 26.2` · `Fabric` · `Java 25` · `EN / DE / RU`
 
+<img src="https://raw.githubusercontent.com/wuttashi1/focus-crosshair/main/docs/assets/gameplay.gif" width="480" alt="Focus Crosshair gameplay animation">
+
 <br clear="left">
 
 ---
