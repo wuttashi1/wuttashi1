@@ -16,11 +16,22 @@
 
 ---
 
-## ⭐ Flagship project
+## ⭐ Flagship projects
+
+### [AI-ChatAssist](https://github.com/wuttashi1/AI-ChatAssist)
+
+[![AI-ChatAssist](https://raw.githubusercontent.com/wuttashi1/AI-ChatAssist/main/docs/assets/cover.svg)](https://github.com/wuttashi1/AI-ChatAssist)
+
+**Your conversations. Your rules.** A self-hosted Telegram AI secretary with automatic replies, draft approval, guided flows and a compact control panel.
+
+[English](https://github.com/wuttashi1/AI-ChatAssist) · [Русский](https://github.com/wuttashi1/AI-ChatAssist/blob/main/README.ru.md)
+
+`Python` · `Telegram Business` · `OpenRouter` · `Docker`
+
 
 ### [DotaAccept](https://github.com/wuttashi1/DotaAccept)
 
-**Fewer clicks. More game.** My main project: a Windows companion for Dota 2 with match acceptance actions, hero pick sequences, customizable hotkeys and Telegram control.
+**Fewer clicks. More game.** A Windows project: a Windows companion for Dota 2 with match acceptance actions, hero pick sequences, customizable hotkeys and Telegram control.
 
 [Download for Windows](https://github.com/wuttashi1/DotaAccept/releases/latest) · [Explore the project](https://github.com/wuttashi1/DotaAccept) · [English documentation](https://github.com/wuttashi1/DotaAccept/blob/main/README.en.md)
 

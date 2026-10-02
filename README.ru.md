@@ -16,11 +16,22 @@
 
 ---
 
-## ⭐ Главный проект
+## ⭐ Главные проекты
+
+### [AI-ChatAssist](https://github.com/wuttashi1/AI-ChatAssist)
+
+[![AI-ChatAssist](https://raw.githubusercontent.com/wuttashi1/AI-ChatAssist/main/docs/assets/cover.svg)](https://github.com/wuttashi1/AI-ChatAssist)
+
+**Твои диалоги. Твои правила.** Личный AI-секретарь для Telegram: автоответы, согласование черновиков, сценарии и удобное меню управления.
+
+[English](https://github.com/wuttashi1/AI-ChatAssist) · [Русский](https://github.com/wuttashi1/AI-ChatAssist/blob/main/README.ru.md)
+
+`Python` · `Telegram Business` · `OpenRouter` · `Docker`
+
 
 ### [DotaAccept](https://github.com/wuttashi1/DotaAccept)
 
-**Меньше кликов. Больше игры.** Мой главный проект: приложение для Windows, которое запускает настроенные действия для принятия матча и выбора героя в Dota 2 — горячими клавишами или через Telegram.
+**Меньше кликов. Больше игры.** Мой проект: приложение для Windows, которое запускает настроенные действия для принятия матча и выбора героя в Dota 2 — горячими клавишами или через Telegram.
 
 [Скачать для Windows](https://github.com/wuttashi1/DotaAccept/releases/latest) · [Открыть проект](https://github.com/wuttashi1/DotaAccept) · [Документация на русском](https://github.com/wuttashi1/DotaAccept/blob/main/README.md)
 
